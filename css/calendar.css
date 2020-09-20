@@ -1,10 +1,6 @@
 
 body{
-   border: 2px solid white;
-  padding: 25px;
   background-image:url(img/CCalendar.jpg);
-  background-repeat: no-repeat;
- background-size: 100% 100%;
 }
 
 h1 {
