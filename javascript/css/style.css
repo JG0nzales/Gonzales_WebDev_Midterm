@@ -1,0 +1,9 @@
+body{
+  background:green;
+}
+
+#txtNotif {
+  color: white;
+  background-color: red;
+  width: 176px;
+}
